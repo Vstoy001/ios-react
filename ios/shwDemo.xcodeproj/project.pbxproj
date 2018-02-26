@@ -1641,7 +1641,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = shw.shwDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.selfhelpworks.universalapp;
 				PRODUCT_NAME = shwDemo;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -1672,7 +1672,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = shw.shwDemo;
+				PRODUCT_BUNDLE_IDENTIFIER = com.selfhelpworks.universalapp;
 				PRODUCT_NAME = shwDemo;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
