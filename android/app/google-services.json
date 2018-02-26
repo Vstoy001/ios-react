@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "909690564755",
+    "firebase_url": "https://shwdemo.firebaseio.com",
+    "project_id": "shwdemo",
+    "storage_bucket": "shwdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909690564755:android:66f08a77df964d34",
+        "android_client_info": {
+          "package_name": "com.shwdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909690564755-u2fqikglbtjgeu9gf75glujul1i3bc1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnUzfM2CUQtWOjhyEmCqjOLPjAJ-sxYMo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
